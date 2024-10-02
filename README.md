@@ -1,12 +1,11 @@
 # Frontend DSA Learning Resources
 
 ## Table of Contents
-1. [JavaScript](#javascript)
-2. [Angular](#angular)
-3. [React](#react)
-4. [HTML & CSS](#html--css)
-5. [Data Structures & Algorithms](#data-structures--algorithms)
-6. [Advanced Projects](#advanced-projects)
-7. [Mock Interviews](#mock-interviews)
+- [JavaScript](./JavaScript/README.md)
+- [Angular](./Angular/README.md)
+- [React](./React/README.md)
+- [HTML & CSS](./HTML_CSS/README.md)
+- [Data Structures & Algorithms](./DSA/README.md)
+- [Projects](./Projects/README.md)
 
 
