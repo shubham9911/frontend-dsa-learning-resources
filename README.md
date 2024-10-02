@@ -1,4 +1,4 @@
-# frontend-dsa-learning-resources
+# Frontend DSA Learning Resources
 
 ## Table of Contents
 1. [JavaScript](#javascript)
